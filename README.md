@@ -1,4 +1,6 @@
-# ChIP-seq paired-end Workflow
+# Deprecated, please use https://github.com/iwc-workflows/chipseq-pe
+
+## ChIP-seq paired-end Workflow
 
 ## Inputs dataset
 
